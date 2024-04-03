@@ -7,7 +7,9 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
 Daftar perintah GiT
+<<<<<<< HEAD
 
 1. git clone 'repository_url'
 2. cd 'repository_folder'
@@ -18,3 +20,6 @@ Daftar perintah GiT
 7. git checkout main
 8. git merge 'cabang'
 9. git push origin main
+=======
+...
+>>>>>>> b84b9ac263c0eaee82c5c341278267b8618f9694
